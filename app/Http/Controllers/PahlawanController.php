@@ -14,6 +14,7 @@ class PahlawanController extends Controller
     public function index()
     {
         //
+        
     }
 
     /**
